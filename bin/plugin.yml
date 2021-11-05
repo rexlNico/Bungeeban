@@ -1,0 +1,12 @@
+name: Ban-System
+author: rexlNico
+main: de.rexlNico.Ban.Main.main
+version: 88.0
+
+commands:
+   ban:
+   unmute:
+   unban:
+   warn:
+   b:
+   check:
